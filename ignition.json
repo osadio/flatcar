@@ -1,0 +1,24 @@
+{
+  "ignition": {
+    "config": {},
+    "security": {
+      "tls": {}
+    },
+    "timeouts": {},
+    "version": "2.2.0"
+  },
+  "networkd": {},
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "passwordHash": "$6$gyAmOCCVq.cSxnP.$eSJxjhIO9P.SVZkr1Qm3vovO0j7gqlp2TPETXUErsh34.fTHUHa4e0YH2r2JB4gl/xRHE/WGsQqcoYNhjCJ85.",
+        "sshAuthorizedKeys": [
+          "key1"
+        ]
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {}
+}
